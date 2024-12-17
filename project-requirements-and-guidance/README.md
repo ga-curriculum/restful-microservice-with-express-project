@@ -37,22 +37,22 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 Your Application must have the following functionality:
 
-1. The project must be committed to a version control system with clear commit messages reflecting progress.
-2. The application must use a `.env` file to securely store configuration variables (Ex: `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`).
-3. The project must follow a modular structure with separate folders for services, models, and controllers.
-4. The database connection logic must be in a `services/database.js` file.
-5. The app must connect to a `DynamoDB` instance using the `AWS` `SDK`.
+- The project must be committed to a version control system with clear commit messages reflecting progress.
+- The application must use a `.env` file to securely store configuration variables (Ex: `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`).
+- The project must follow a modular structure with separate folders for services, models, and controllers.
+- The database connection logic must be in a `services/database.js` file.
+- The app must connect to a `DynamoDB` instance using the `AWS` `SDK`.
 
 The following RESTful API routes must be implemented and functional:
 
-1.  GET /resources – Retrieve all resources.
-2.  GET /resources/:id – Retrieve an resource by ID.
-3.  POST /resources – Create a new resource.
-4.  PUT /resources/:id – Update an resource by ID.
-5.  DELETE /resources/:id – Delete an resource by ID.
+- GET /resources – Retrieve all resources.
+- GET /resources/:id – Retrieve an resource by ID.
+- POST /resources – Create a new resource.
+- PUT /resources/:id – Update an resource by ID.
+- DELETE /resources/:id – Delete an resource by ID.
 
-6.  The app must include a Dockerfile to containerize the application.
-7.  The Docker container must expose port 3000 and use environment variables for configuration.
+- The app must include a Dockerfile to containerize the application.
+- The Docker container must expose port 3000 and use environment variables for configuration.
 
 ## Code convention and UI/UX requirements
 
