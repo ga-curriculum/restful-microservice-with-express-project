@@ -33,7 +33,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ## Technical requirements
 
-> ✅ More than 2 items marked incomplete in this section will result in the project receiving a failing grade.
+> ✅ More than `two` items marked incomplete in this section will result in the project receiving a failing grade.
 
 Your Application must have the following functionality:
 
@@ -44,7 +44,6 @@ Your Application must have the following functionality:
 - The app must connect to a `DynamoDB` instance using the `AWS` `SDK`.
 
 The following RESTful API routes must be implemented and functional:
-
 - GET /resources – Retrieve all resources.
 - GET /resources/:id – Retrieve an resource by ID.
 - POST /resources – Create a new resource.
@@ -56,7 +55,7 @@ The following RESTful API routes must be implemented and functional:
 
 ## Code convention and UI/UX requirements
 
-> ✅ More than three items marked incomplete in this section will result in the project receiving a failing grade.
+> ✅ More than `three` items marked incomplete in this section will result in the project receiving a failing grade.
 
 - The code must be well-organized and modular, with functions handling specific tasks.
 - The code should follow Javascript best practices and be well-documented with comments where necessary.
@@ -66,7 +65,7 @@ The following RESTful API routes must be implemented and functional:
 
 ## README requirements
 
-> ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
+> ✅ More than `two` items marked incomplete in this section will result in the project receiving a failing grade.
 
 - The app's name.
 - A brief description of your app and its functionality.
