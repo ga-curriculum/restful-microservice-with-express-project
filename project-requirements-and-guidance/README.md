@@ -55,11 +55,10 @@ The following RESTful API routes must be implemented and functional:
 
 ## Code convention and UI/UX requirements
 
-> ✅ More than `three` items marked incomplete in this section will result in the project receiving a failing grade.
+> ✅ More than `two` items marked incomplete in this section will result in the project receiving a failing grade.
 
 - The code must be well-organized and modular, with functions handling specific tasks.
 - The code should follow Javascript best practices and be well-documented with comments where necessary.
-- The terminal interface must be user-friendly and intuitive, with clear prompts and instructions.
 - The application must validate user input to ensure that it is correct and within expected parameters.
 - Error messages should be clear and informative, guiding users to correct their input.
 
