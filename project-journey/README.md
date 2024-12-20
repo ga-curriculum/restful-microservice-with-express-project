@@ -3,11 +3,6 @@
   <span class="subhead">Project Journey</span>
 </h1>
 
-<h1>
-  <span class="headline">Budget Tracker Application Project</span>
-  <span class="subhead">Project Journey</span>
-</h1>
-
 Students typically learn the most while building projects. During this time, you'll be self-directed to plan, build, and complete your project.
 
 You'll need to submit some key deliverables along the way to keep you on track. To help you through this process, we've included this guide to walk you through the individual steps outlined below so that you can be sure you're not missing anything along the way.
