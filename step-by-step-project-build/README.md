@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">RESTful Microservice with Express Project</span>
-  <span class="subhead">Project GitHub Repo URL Deliverable</span>
+  <span class="subhead">Step-By-Step Project Build</span>
 </h1>
 
 # Project Instructions
